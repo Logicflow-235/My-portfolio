@@ -1,0 +1,39 @@
+.projects {
+  padding: 100px 80px;
+  position: relative;
+  z-index: 1;
+}
+
+.projects-title {
+  font-size: 3rem;
+  color: var(--white);
+  text-transform: uppercase;
+  letter-spacing: 4px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.projects-title::after {
+  content: '';
+  display: block;
+  width: 80px;
+  height: 3px;
+  background: var(--hot-pink);
+  margin: 15px auto 0;
+}
+
+.projects-wall {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px;
+  justify-content: center;
+  align-items: center;
+}
+.projects-hint {
+  text-align: center;
+  color: var(--soft-pink);
+  font-size: 0.9rem;
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+  margin-top: -40px;
+}
