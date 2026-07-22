@@ -16,7 +16,10 @@ function About (){
                 <span className="skill-badge">JavaScript</span>
                 <span className="skill-badge">React</span>
                 <span className="skill-badge">Redux</span>
-                <span className="skill-badge">Angular</span>
+                <span className="skill-badge">Typescript</span>
+                <span className="skill-badge">Tailwindcss</span>
+                <span className="skill-badge">RestAPIs</span>
+
             </div>
         </div>
     </div>

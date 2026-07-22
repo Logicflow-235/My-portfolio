@@ -1,5 +1,5 @@
 import '../styles/Hero.css'
-import portfolioimage from '../assets/portfolioimage.jpeg'
+import portfoliomg from '../assets/portfoliomg.jpeg'
 function Hero(){
     return(
         <div className="device-frame" id="home">
@@ -8,7 +8,7 @@ function Hero(){
         <h1 className="hero-name">Linet Theuri</h1>
         <p className="hero-title">Frontend Developer</p>
        <a className="hire-btn" href="mailto:theurilinet8@gmail.com">Hire Me</a>    </div>
-    <img className="hero-image" src={portfolioimage} alt='Linet Theuri'/>
+    <img className="hero-image" src={portfoliomg} alt='Linet Theuri'/>
 </div>
     );
 }

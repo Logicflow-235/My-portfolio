@@ -18,27 +18,27 @@ function Projects(){
          {id:"p2",
         title:'To-Do App',
         image:ToDo,
-        description:"A to-do web app designed to help users organize tasks, manage daily activities, and improve productivity through a clean and responsive interface.",
+        description:"A task management app with full CRUD functionality, built with: React, Redux Toolkit, React-Redux, and Vite. State is managed through a single Redux slice, with tasks filtered into completed and incomplete lists using derived selectors rather than separate state arrays.",
         link:" https://to-do-app-coral-seven.vercel.app/"},
    
    {
         id:"p3",
         title:'Brume Cafe',
         image:brume,
-        description:"A modern and cozy café website featuring a warm color scheme, responsive layout, elegant typography, and visually appealing food photography",
+        description:"A modern and cozy café website featuring a warm color scheme, responsive layout, elegant typography, and visually appealing food photography built with HTML5 and CSS3.",
         link:"https://logicflow-235.github.io/BRUME-CAFE/"
     },
        {id:"p4",
         title:'IronPeak Gym',
         image:ironpeak,
-        description:"A simple practice gym website built to showcase a modern fitness platform with responsive design, clean layouts, workout sections, membership plans, and trainer information using web development technologies",
+        description:"A responsive gym website with a bold, energetic dark theme, built mobile-first. Built with: HTML5, CSS3, Vanilla JavaScript. Features a slide-out sidebar navigation, full-screen hero with dark overlay, and an interactive pricing section with hover-based plan highlighting",
         link:" https://logicflow-235.github.io/Ironpeak-gym/"
     },
     
        {id:"p5",
         title:'Budget Tracker',
         image:budget,
-        description:"A budget tracker web app designed to help users manage expenses, track income, and monitor spending through a simple and responsive interface",
+        description:"An expense tracking app with real-time category breakdowns, built with: HTML5, CSS3, and vanilla JavaScript. Expenses persist in localStorage as the single source of truth, with the UI re-rendering from that store on every add, edit, or delete, and category bar widths calculated dynamically as a percentage of the grand total.",
         link:" https://logicflow-235.github.io/budget-tracker/"},
     {id:"p6",
         title:'Pomodoro  StudyTimer',
