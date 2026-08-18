@@ -6,7 +6,7 @@ function Hero(){
     <div className="hero-content">      
         <span className="greeting">Hi I am</span>
         <h1 className="hero-name">Linet Theuri</h1>
-        <p className="hero-title">Frontend Developer</p>
+        <p className="hero-title">Fullstack Developer</p>
        <a className="hire-btn" href="mailto:theurilinet8@gmail.com">Hire Me</a>    </div>
     <img className="hero-image" src={portfoliomg} alt='Linet Theuri'/>
 </div>
